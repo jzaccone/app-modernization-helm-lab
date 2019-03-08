@@ -85,7 +85,7 @@ If you haven't already:
 
 ![Github Pages](images/ss2.png)
 
-2. In your terminal window type the following command, substituting your github username for *[ghuname]*. Verify that the contents of *index.yaml* are returned
+2. After a few seconds, your pages will be published. To test this, in your terminal window type the following command, substituting your github username for *[ghuname]*. Verify that the contents of *index.yaml* are returned
 ```
    curl https://[ghuname].github.io/app-modernization-plants-by-websphere-jee6/charts/index.yaml
 ```
